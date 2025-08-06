@@ -28,5 +28,5 @@ I am currently building real-world mini-projects using Python and CLI-based tool
 
 ## Connect with Me
 
-- LinkedIn: [Khadija Ali](https://www.linkedin.com/in/khadijaa-ali/)  
+- LinkedIn: [Khadija Ali](https://www.linkedin.com/in/khadija-ali-5713a7325/) 
 - Email: dijaa.aali@gmail.com
