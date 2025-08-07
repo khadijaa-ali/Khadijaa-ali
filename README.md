@@ -21,7 +21,7 @@ I am currently building real-world mini-projects using Python and CLI-based tool
 - **Library Management System** – [Library-system](https://github.com/khadijaa-ali/Library-system)  
   A CLI-based app to manage book records using Python and CSV files.
 
-- **Expense Tracker** – [Expense-tracker](https://github.com/khadijaa-ali/Expense-tracker)  
+- **Expense Tracker** – [Expense-tracker](https://github.com/khadijaa-ali/Expense-tracker)
   A tool using Pandas to track expenses by category and save data in CSV.
 
 - **To-Do List App** – [To-do-list](https://github.com/khadijaa-ali/TO-DO-list).
