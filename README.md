@@ -24,9 +24,12 @@ I am currently building real-world mini-projects using Python and CLI-based tool
 - **Expense Tracker** – [Expense-tracker](https://github.com/khadijaa-ali/Expense-tracker)  
   A tool using Pandas to track expenses by category and save data in CSV.
 
+- **To-Do List App** – [To-do-list](https://github.com/khadijaa-ali/TO-DO-list).
+  A simple command-line to-do list app to add, view, update, and delete daily tasks using Python and CSV.
+
 ---
 
 ## Connect with Me
 
-- LinkedIn: [Khadija Ali](https://www.linkedin.com/in/khadija-ali-5713a7325/) 
+- LinkedIn: [Khadija Ali](https://www.linkedin.com/in/khadija-ali-5713a7325/)  
 - Email: dijaa.aali@gmail.com
