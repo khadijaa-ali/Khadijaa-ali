@@ -6,16 +6,17 @@ I build **real-world projects** using Python, Pandas, and CLI-based tools to sol
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 - **Python** (Core Fundamentals)
 - **Pandas** (Data Cleaning & Analysis)
 - **Web Scraping** (Requests & BeautifulSoup)
 - **CSV & Excel Automation** (OpenPyXL)
+- **Matplotlib** (Data Visualization)
 - **Git & GitHub** (Version Control)
 
 ---
 
-## 📂 Projects
+## Projects
 
 - **Bookstore Web Scraper & Excel Report Generator** – [Books-Scraper](https://github.com/khadijaa-ali/Books-Scraper)  
   Scrapes book details from *Books to Scrape* and exports them into a formatted Excel report.
@@ -29,8 +30,17 @@ I build **real-world projects** using Python, Pandas, and CLI-based tools to sol
 - **To-Do List App** – [TO-DO-list](https://github.com/khadijaa-ali/TO-DO-list)  
   Command-line to-do list app to add, view, update, and delete tasks efficiently.
 
+- **Movie Scraper** – [Movie-Scraper](https://github.com/khadijaa-ali/Movie-Scraper)  
+  Scrapes movie details such as title, year, and rating, and saves them in CSV format.
+
+- **Quote Scraper** – [Quote-Scraper](https://github.com/khadijaa-ali/Quote-Scraper)  
+  Scrapes famous quotes along with their authors and exports them into a dataset.
+
+- **Weather Forecast Scraper** – [Weather-Forecast-Scraper](https://github.com/khadijaa-ali/Weather-Forecast-Scraper)  
+  Fetches the current and 7-day weather forecast from the U.S. National Weather Service and visualizes it using Matplotlib.
+
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 - **LinkedIn:** [Khadija Ali](https://www.linkedin.com/in/khadija-ali-5713a7325/)  
 - **Email:** dijaa.aali@gmail.com
