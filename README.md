@@ -12,7 +12,6 @@ I build **real-world projects** using Python, Pandas, and CLI-based tools to sol
 - **Web Scraping** (Requests & BeautifulSoup)
 - **CSV & Excel Automation** (OpenPyXL)
 - **Matplotlib** (Data Visualization)
-- **Git & GitHub** (Version Control)
 
 ---
 
