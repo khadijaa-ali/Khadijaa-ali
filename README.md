@@ -1,21 +1,28 @@
 # Khadija Ali
 
-**BS Artificial Intelligence Student** | **Data Analysis & Automation with Python**  
+**BS Artificial Intelligence Student** | **Data Analysis & Automation with Python** | **Machine Learning Enthusiast**
 
-I build **real-world projects** using Python, Pandas, and CLI-based tools to solve problems, automate workflows, and process data efficiently.
+I build **real-world projects** using Python, Pandas, and Machine Learning to solve problems, automate workflows, and analyze data efficiently.  
+My focus is on creating **practical applications** that bridge theory with real use cases.
 
 ---
 
 ## Skills & Tools
-- **Python** (Core Fundamentals)
-- **Pandas** (Data Cleaning & Analysis)
-- **Web Scraping** (Requests & BeautifulSoup)
-- **CSV & Excel Automation** (OpenPyXL)
-- **Matplotlib** (Data Visualization)
+- **Programming:** Python, SQL  
+- **Data Handling:** NumPy, Pandas, Excel, CSV, JSON, Files Automation  
+- **Visualization:** Matplotlib  
+- **Machine Learning:** Scikit-learn, Joblib  
+- **Natural Language Processing (NLP):** Text Cleaning, Basic NLP tasks  
+- **Web Scraping:** Requests, BeautifulSoup  
+- **Web Apps:** Streamlit  
 
 ---
 
 ## Projects
+
+- **Heart Disease Prediction App** – [Heart-Disease-Prediction](https://github.com/khadijaa-ali/Heart-Disease-Prediction)  
+  Streamlit web app that predicts heart disease risk using patient details.  
+  Built with Scikit-learn, StandardScaler, and Joblib for real-time ML predictions.
 
 - **Bookstore Web Scraper & Excel Report Generator** – [Books-Scraper](https://github.com/khadijaa-ali/Books-Scraper)  
   Scrapes book details from *Books to Scrape* and exports them into a formatted Excel report.
