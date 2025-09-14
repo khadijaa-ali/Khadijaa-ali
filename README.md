@@ -20,6 +20,14 @@ My focus is on creating **practical applications** that bridge theory with real 
 
 ## Projects
 
+- **CSV/Excel Data Cleaner App** – [CSV-Excel-Data-Cleaner](https://github.com/khadijaa-ali/CSV-Excel-Data-Cleaner)  
+  Streamlit web app to upload, analyze, and clean CSV or Excel files.  
+  Features include duplicate removal, missing value handling, column standardization, and download options in CSV or Excel.
+
+- **Currency Converter App** – [Currency-Converter](https://github.com/khadijaa-ali/Currency-Converter)  
+  Streamlit web app that converts any currency into another using live exchange rates from an API.  
+  Built with Python, Requests, and Streamlit for real-time conversion.
+
 - **Heart Disease Prediction App** – [Heart-Disease-Prediction](https://github.com/khadijaa-ali/Heart-Disease-Prediction)  
   Streamlit web app that predicts heart disease risk using patient details.  
   Built with Scikit-learn, StandardScaler, and Joblib for real-time ML predictions.
