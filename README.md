@@ -20,7 +20,7 @@ My focus is on creating **practical applications** that bridge theory with real 
 
 ## Projects
 
-- **CSV/Excel Data Cleaner App** – [CSV-Excel-Data-Cleaner](https://github.com/khadijaa-ali/CSV-Excel-Data-Cleaner)  
+- **CSV/Excel Data Cleaner App** – [CSV-Excel-Data-Cleaner](https://github.com/khadijaa-ali/CSV-Excel-Data-Cleaner-App)  
   Streamlit web app to upload, analyze, and clean CSV or Excel files.  
   Features include duplicate removal, missing value handling, column standardization, and download options in CSV or Excel.
 
