@@ -13,7 +13,7 @@ My focus is on creating **end-to-end applications** that go from raw data to dep
 - **Visualization:** Matplotlib, Seaborn, Plotly, Power BI
 - **Machine Learning:** Scikit-learn, XGBoost, Joblib
 - **Web Apps:** Streamlit
-- **Web Scraping:** Requests, BeautifulSoup
+  
 
 ---
 
