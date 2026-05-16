@@ -25,7 +25,7 @@ My focus is on creating **end-to-end applications** that go from raw data to dep
   Streamlit web app that predicts heart disease risk using patient health details.
   Trained and compared Logistic Regression and SVM; applied StandardScaler and Joblib for real-time ML predictions.
 
-- **GovAI Transparency Portal** – [GovAI-Transparency-Portal](https://github.com/khadijaa-ali/GovAI-Transparency-Portal)
+- **GovAI Transparency Portal** – [GovAI-Transparency-Portal](https://github.com/khadijaa-ali/Governance-AI-Transparency-Portal)
   End-to-end ML platform for detecting anomalies in government procurement data.
   Built with Random Forest (98.1% accuracy, 97.3% ROC-AUC) and XGBoost. Includes 5 interactive Plotly/Seaborn visualizations and a bilingual (Urdu/English) chatbot.
   **Selected among Top 50 Projects — Uraan AI Techathon 1.0 (Solo Submission, Oct 2025)**
