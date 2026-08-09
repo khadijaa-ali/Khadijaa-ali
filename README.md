@@ -68,5 +68,5 @@ Fetches the current and 7-day weather forecast from the U.S. National Weather Se
 ---
 
 ## Connect with Me
-**LinkedIn:** [Khadija Ali](https://linkedin.com/in/khadijaa-ali)
+**LinkedIn:** [Khadija Ali](https://www.linkedin.com/in/khadija-ali-5713a7325/)
 **Email:** dijaa.aali@gmail.com
