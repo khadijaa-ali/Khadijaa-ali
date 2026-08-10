@@ -1,5 +1,5 @@
 # Khadija Ali
-**AI/ML Developer | Building with LangChain, RAG & n8n | Aspiring AI Freelancer**
+**AI/ML Developer | Building with LangChain, RAG & n8n 
 
 I build real-world AI systems — from machine learning classifiers to LLM-powered agents and workflow automation — using Python, LangChain, n8n, and Streamlit to solve practical problems across healthcare, governance, and technology domains. My focus is on creating end-to-end applications that go from raw data or a user query to a working, usable output.
 
