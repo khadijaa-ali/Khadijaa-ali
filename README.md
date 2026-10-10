@@ -1,5 +1,9 @@
-# Khadija Ali
-Aspiring AI Engineer | RAG, LangChain & LLM Applications
+<h1 align="center">Khadija Ali</h1>
+<p align="center">Aspiring AI Engineer | RAG, LangChain & LLM Applications</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khadijaa-ali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 I build real AI systems — from ML classifiers to LLM-powered agents and automation workflows — using Python, LangChain, n8n, and Streamlit. I like taking a project from raw data or a user question all the way to something that actually works and runs.
 
