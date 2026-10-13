@@ -2,11 +2,7 @@
 <p align="center">Aspiring AI Engineer | RAG, LangChain & LLM Applications</p>
 
 
-I'm a BS Artificial Intelligence student at NUML Islamabad, working toward becoming an AI Engineer.
-
-Right now I build with RAG pipelines, LangChain, LangGraph and n8n automation — turning documents and messy workflows into systems that actually answer questions or take action. I learn best by building real things, breaking them, and fixing them.
-
-I'm looking for an AI Engineer internship where I can keep learning hands-on and contribute to real projects.
+I'm a BS Artificial Intelligence student at NUML Islamabad, working toward becoming an AI Engineer.Right now I build with RAG pipelines, LangChain, LangGraph and n8n automation — turning documents and messy workflows into systems that actually answer questions or take action. I learn best by building real things, breaking them, and fixing them.I'm looking for an AI Engineer internship where I can keep learning hands-on and contribute to real projects.
 
 ---
 
